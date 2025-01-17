@@ -25,4 +25,4 @@ Pandas
 
 NumPy
 
-HTML/CSS (for frontend)
+HTML (for frontend)
